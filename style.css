@@ -1,0 +1,54 @@
+h1 {
+  color: blue;
+}
+h2 {
+  color: #ff0000;
+}
+h3 {
+  color: chocolate;
+}
+h4 {
+  color: darkturquoise;
+}
+h5 {
+  color: rgb(251, 73, 3);
+}
+h6 {
+  color: #bced08;
+}
+p {
+  color: rgb(255, 0, 47);
+}
+p {
+  color: rgb(205, 40, 11);
+}
+p {
+  color: rgba(20, 17, 195, 0.96);
+}
+body {
+  background-color: rgb(38, 255, 0);
+  font-family: "Raleway", sans-serif;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #e92323;
+}
+
+#nav {
+  float: left;
+}
+
+#nav a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#nav a:hover {
+  background-color: #1eab08;
+}
